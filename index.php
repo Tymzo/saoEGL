@@ -9,11 +9,9 @@
 </head>
 
 <body>
-    <<<<<<< HEAD <h1>Salut</h1>
-        =======
-        <h1>Stefan modification</h1>
-        <h1>Stefan modification2</h1>
-        >>>>>>> 2640cbaadbb7a8e6420e2a717ace6b785b346aa3
+    <h1>Stefan modification</h1>
+    <h1>Stefan modification2</h1>
+
 </body>
 
 </html>
